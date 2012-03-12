@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.pymodoro
+Exec=python /home/presto/Workspace/pymodoro/start.py
