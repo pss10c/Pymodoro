@@ -1,0 +1,896 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resource"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"ag",
+				"aggregator"
+			],
+			[
+				"aggre",
+				"aggregator"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"agg",
+				"aggregated_data"
+			],
+			[
+				"Error",
+				"ErrorPage  (class)"
+			],
+			[
+				"trace",
+				"traceback  (module)"
+			],
+			[
+				"SOL_",
+				"SOL_SOCKET  (variable)"
+			],
+			[
+				"set",
+				"setsockopt  (function)"
+			],
+			[
+				"SOCK_S",
+				"SOCK_STREAM  (variable)"
+			],
+			[
+				"auth",
+				"authentication_failure"
+			],
+			[
+				"callba",
+				"callback"
+			],
+			[
+				"protocol",
+				"protocol_command"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"Ca",
+				"Callable"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"_cal",
+				"_callbacks"
+			],
+			[
+				"cmd_",
+				"cmd_status"
+			],
+			[
+				"dec",
+				"decoded_data"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"proto",
+				"protocol_command"
+			],
+			[
+				"callback_",
+				"callback_failure"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"add_",
+				"add_cmd_handler"
+			],
+			[
+				"cmd",
+				"cmd_id"
+			],
+			[
+				"_ca",
+				"_callbacks"
+			],
+			[
+				"call",
+				"callback_failure"
+			],
+			[
+				"callbac",
+				"callback_failure"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"_d",
+				"_disconnect_handler"
+			],
+			[
+				"authenti",
+				"authentication_success"
+			],
+			[
+				"roo",
+				"root_node_id"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"aut",
+				"authentication_failure"
+			],
+			[
+				"ret",
+				"retrieving"
+			],
+			[
+				"label_sta",
+				"label_state"
+			],
+			[
+				"au",
+				"auth_handler"
+			],
+			[
+				"la",
+				"label_state"
+			],
+			[
+				"DB",
+				"DBusGMainLoop"
+			],
+			[
+				"Authe",
+				"authenticated"
+			],
+			[
+				"serv",
+				"server_disconnected"
+			],
+			[
+				"reme",
+				"remembered_password"
+			],
+			[
+				"en",
+				"entry_password"
+			],
+			[
+				"entr",
+				"entry_username"
+			],
+			[
+				"mai",
+				"main_quit"
+			],
+			[
+				"butt",
+				"button_login"
+			],
+			[
+				"hb",
+				"hbox_confirm"
+			],
+			[
+				"_buffer",
+				"_buffersize"
+			],
+			[
+				"_callbac",
+				"_callback_invoker"
+			],
+			[
+				"buf",
+				"_buffer"
+			],
+			[
+				"form",
+				"format_exc"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"event",
+				"_event_loop"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"thre",
+				"threading"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"l",
+				"Label"
+			],
+			[
+				"labe",
+				"label_username"
+			],
+			[
+				"Log",
+				"LoginWindow"
+			],
+			[
+				"min",
+				"main_quit"
+			],
+			[
+				"ro",
+				"root"
+			],
+			[
+				"di",
+				"discover"
+			],
+			[
+				"DBUS_",
+				"DBUS_DAEMON_PATH"
+			],
+			[
+				"DBUS_SES",
+				"DBUS_SESSION_PATH_BASE"
+			],
+			[
+				"DBUS",
+				"DBUS_BUS_NAME"
+			],
+			[
+				"zeo",
+				"zeodisk"
+			],
+			[
+				"clie",
+				"client_id"
+			],
+			[
+				"root",
+				"rootId"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"zeodi",
+				"zeodisk"
+			],
+			[
+				"sp",
+				"spawn_n"
+			],
+			[
+				"eve",
+				"eventlet"
+			],
+			[
+				"gree",
+				"greenthread"
+			],
+			[
+				"for",
+				"format_exc"
+			],
+			[
+				"loggi",
+				"logging"
+			],
+			[
+				"Star",
+				"start_user_session"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"Tr",
+				"True"
+			],
+			[
+				"star",
+				"start_user_session"
+			],
+			[
+				"wa",
+				"_waiting_reply"
+			],
+			[
+				"node",
+				"node_id"
+			],
+			[
+				"g",
+				"gconf"
+			],
+			[
+				"gcon",
+				"gconf_client"
+			],
+			[
+				"gco",
+				"gconf_client"
+			],
+			[
+				"dbus",
+				"dbus_obj_path"
+			],
+			[
+				"bus",
+				"bus_name"
+			],
+			[
+				"par",
+				"parts"
+			],
+			[
+				"tme",
+				"timeout"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"res",
+				"resolve_shares"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "com.pymodoro.service",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generic_daemon.py",
+			"settings":
+			{
+				"buffer_size": 3668,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generic_daemon.pyc",
+			"settings":
+			{
+				"buffer_size": 10487,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gui.py",
+			"settings":
+			{
+				"buffer_size": 3426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "start.py",
+			"settings":
+			{
+				"buffer_size": 4359,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/presto/Workspace/pymodoro/com.pymodoro.service",
+		"/home/presto/Workspace/pymodoro/generic_daemon.py",
+		"/home/presto/Workspace/pymodoro/generic_daemon.pyc",
+		"/home/presto/Workspace/pymodoro/gui.py",
+		"/home/presto/Workspace/pymodoro/README",
+		"/home/presto/Workspace/pymodoro/start.py",
+		"/home/presto/Workspace/zeodisk.nix/trunk/generic_daemon.py",
+		"/home/presto/Workspace/zeodisk.nix/trunk/start_gui.sh",
+		"/home/presto/Workspace/zeodisk.nix/trunk/FS.py",
+		"/home/presto/Workspace/zeodisk.nix/trunk/daemon.py",
+		"/home/presto/Workspace/zeodisk.nix/trunk/ZeoDisk.service",
+		"/home/presto/Workspace/zeodisk.nix/trunk/daemon.pyc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AGG_FILE_NAME",
+			"auth",
+			"self.auth",
+			"update",
+			"add_cmd_handler",
+			"update_ca",
+			"gen_id()",
+			"_auth_",
+			"auth",
+			"_update",
+			"_gen_id",
+			".ls",
+			"ls",
+			"_auth_call",
+			"start",
+			"callback=",
+			"+=",
+			"self._callbacks",
+			"\"failure\"",
+			"\"success\"",
+			"_handler",
+			"lambda",
+			"Fals",
+			"authenticated",
+			"auth",
+			"Session",
+			"_user_sess",
+			"Exception",
+			"login",
+			"server",
+			"_auth_ca",
+			"end",
+			".ls",
+			"ls",
+			"Exception",
+			"time",
+			"eventlet",
+			"bus_name",
+			"schedu",
+			"q.",
+			"self.q",
+			"logging",
+			"schedule",
+			"ls",
+			".auth",
+			"auth",
+			"dbus",
+			"Socket connected",
+			"_main_loop",
+			"get_node_content",
+			"...",
+			"_upda",
+			"\"/com/zeobit/zeodisk/Daemon\"",
+			"'com.zeobit.zeodisk",
+			"'com.zeobit.zeodisk'",
+			"com.zeobit.zeodisk",
+			"_main_loop",
+			"discover",
+			"update_ca",
+			"_session_auth",
+			"Session",
+			"_gen_cmd_id",
+			"start_session",
+			"_main_loop",
+			"_bus_name",
+			"_root",
+			"Session",
+			"dbus",
+			"_thread",
+			"gconf",
+			"__ini",
+			"threadin",
+			"gtk",
+			"gtkmain",
+			"gconf",
+			"thread",
+			"gtk",
+			"dbus",
+			"base",
+			"spawn",
+			"callback",
+			"monkey_patch",
+			"spawn",
+			"run",
+			"sleep",
+			"waiti",
+			"bus_name",
+			"dbus",
+			"threading",
+			"eventlet.greenthread",
+			"_thread",
+			"discover",
+			"item[\"id\"]",
+			"item[\"name\"]",
+			".error",
+			"traceback",
+			"item[\"parentId\"]",
+			" ls",
+			"_thread_start",
+			"target",
+			"ls",
+			"run",
+			"start_user",
+			"__init__",
+			"bus_nm",
+			"DBUSGMAIN",
+			"gtk",
+			"start_user_session",
+			"run",
+			"session",
+			"_session_id",
+			"_session",
+			"recv",
+			" + \"\\n\" + str(traceback.format_exc())",
+			"logging",
+			"str",
+			"session",
+			"ls",
+			"discover",
+			"traceback",
+			"redis",
+			"traceback.format_stack()",
+			"update_ca",
+			"discover",
+			"Session",
+			"bus_name",
+			"logging",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.agg_filename",
+			"CMD_STATUS_FAILURE",
+			"CMD_STATUS_SUCCESS",
+			"start",
+			"",
+			"DBUS_DAEMON_PATH",
+			"DBUS_BUS_NAME + '",
+			"DBUS_BUS_NAME",
+			"_gen_id",
+			"bus_name",
+			"root",
+			"spawn_n",
+			"eventlet",
+			"item_id",
+			"name",
+			"base",
+			"",
+			"                \nstr(traceback.format_stack())",
+			".session_id",
+			"get_node",
+			"_fs_cache",
+			"(",
+			")",
+			"(",
+			"_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "com.pymodoro.service",
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "generic_daemon.py",
+					"settings":
+					{
+						"buffer_size": 3668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "generic_daemon.pyc",
+					"settings":
+					{
+						"buffer_size": 10487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gui.py",
+					"settings":
+					{
+						"buffer_size": 3426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "README",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "start.py",
+					"settings":
+					{
+						"buffer_size": 4359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
